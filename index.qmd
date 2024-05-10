@@ -11,14 +11,10 @@ about:
       href: https://www.linkedin.com/in/dansnolte/
     - icon: envelope
       href: mailto:dnolte@220@gmail.com
-    - text: Resume
-      href: resume.pdf
-
 
 ---
 Welcome! Here's a bit about me, professionally and otherwise:
 
-- [Here](resume.pdf) is my resume.
 - I have training math and economics (University of Rochester, BA) and biostatistics (Harvard, MS). 
 - I have 6+ years of work experience in economic consulting, data science, and medical research. 
 - I love solving problems with data, and communicating results through writing. 

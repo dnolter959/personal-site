@@ -18,6 +18,8 @@ website:
           - reviews.qmd
           - musings.qmd
       - projects.qmd
+      - text: Resume
+        href: resume.pdf
 
 format:
   html:

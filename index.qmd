@@ -12,7 +12,7 @@ about:
     - icon: envelope
       href: mailto:dnolte@220@gmail.com
     - text: Resume
-      href: content/resume.pdf
+      href: content/resume.pdf 
 
 
 ---

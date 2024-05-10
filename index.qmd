@@ -11,6 +11,8 @@ about:
       href: https://www.linkedin.com/in/dansnolte/
     - icon: envelope
       href: mailto:dnolte@220@gmail.com
+    - text: Resume
+      href: resume.pdf
 
 
 ---
@@ -23,4 +25,3 @@ Welcome! Here's a bit about me, professionally and otherwise:
 - Work is important to me! I hope to have a positive impact through the work that I do.
 - I love running, reading, writing, and listening to podcasts.
 - [These](https://open.spotify.com/playlist/4s8txG9rCi09HGedNuhcvM?si=118a8d3d8bee4a4d) are a few of my favorite things. 
-- 

@@ -1,0 +1,29 @@
+{
+  "index.qmd": {
+    "index.html": "c3f76af3"
+  },
+  "about.qmd": {
+    "about.html": "db51b5f1"
+  },
+  "statistics.qmd": {
+    "statistics.html": "d8f0bd44"
+  },
+  "reviews.qmd": {
+    "reviews.html": "4c499381"
+  },
+  "musings.qmd": {
+    "musings.html": "768f55b6"
+  },
+  "principles.qmd": {
+    "principles.html": "f45e1201"
+  },
+  "projects.qmd": {
+    "projects.html": "e901b2aa"
+  },
+  "resume.qmd": {
+    "resume.html": "15b1b6ae"
+  },
+  "values.qmd": {
+    "values.html": "9c6b942e"
+  }
+}

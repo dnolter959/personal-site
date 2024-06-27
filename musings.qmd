@@ -1,6 +1,0 @@
----
-title: "Musings"
-format: html
----
-
-Principles. 

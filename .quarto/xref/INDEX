@@ -25,5 +25,20 @@
   },
   "values.qmd": {
     "values.html": "9c6b942e"
+  },
+  "blog/overview.qmd": {
+    "overview.html": "721eead6"
+  },
+  "blog/sql.qmd": {
+    "sql.html": "93cd6b54"
+  },
+  "blog/machine-learning.qmd": {
+    "machine-learning.html": "4077e2f8"
+  },
+  "blog/python.qmd": {
+    "python.html": "d5399324"
+  },
+  "blog/stats.qmd": {
+    "stats.html": "ab764431"
   }
 }

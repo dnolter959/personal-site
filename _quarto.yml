@@ -9,17 +9,34 @@ website:
     background: "#F78734"
     search: true
     left:
-      - href: index.qmd
-        text: Home
-      - values.qmd
-      - text: "Words"
-        menu:
-          - statistics.qmd
-          - reviews.qmd
-          - musings.qmd
-      - projects.qmd
+      - text: Home
+        href: index.qmd
+      - text: "Blog"
+        href: blog/overview.qmd
+      - text: Projects
+        href: projects.qmd
       - text: Resume
         href: resume.pdf
+
+  sidebar:
+    - title: "Blog"
+      style: "docked"
+      background: light
+      contents:
+        - blog/overview.qmd
+        - blog/sql.qmd
+        - blog/python.qmd
+        - blog/stats.qmd
+        - blog/machine-learning.qmd
+
+    - title: Projects
+      contents:
+        - projects.qmd
+
+    - title: Resume
+      contents:
+        - resume.pdf
+
 
 format:
   html:

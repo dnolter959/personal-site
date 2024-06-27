@@ -1,6 +1,0 @@
----
-title: "Reviews"
-format: html
----
-
-Principles. 

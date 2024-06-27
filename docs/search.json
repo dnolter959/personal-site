@@ -1,50 +1,5 @@
 [
   {
-    "objectID": "statistics.html",
-    "href": "statistics.html",
-    "title": "Statistics",
-    "section": "",
-    "text": "Principles."
-  },
-  {
-    "objectID": "reviews.html",
-    "href": "reviews.html",
-    "title": "Reviews",
-    "section": "",
-    "text": "Principles."
-  },
-  {
-    "objectID": "values.html",
-    "href": "values.html",
-    "title": "Values",
-    "section": "",
-    "text": "When I admire people, they normally do these things.\nTell the truth: They say things that are true, quantifying uncertainty as appropriate. They don’t say things that are false. They follow these rules relentlessly, and especially when delivering news people don’t want to hear.\nUse their words: They initiate difficult conversations and don’t allow important things to go unsaid, especially with those close to them.\nWrite: They use writing as a tool to clarify their thinking. (As an aside, I believe writing is highly underrated in the workplace. I endorse the Amazon approach to meetings.)\nBalance their lives: They understand that life is short and we get one chance at this. They design their lives appropriately.\nSeek new experiences: They resist status quo bias and they try new things to make their lives richer.\nEngage with the world: They actively participate in the communities where they live, and they recognize that their choices matter and they have the capacity to change the world."
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "This is a selection of analytical projects I have completed either individually or as part of a small team.\n\n1. An R package for multiple imputation on longitudinal data\nIt turns out people don’t like completing surveys, especially longitudinal ones. What are you supposed to do with the half-data you are left with at the end? This R package implements a statistical method proposed by Moreno-Betancur and Chavance in their 2013 paper, which facilitates sensitivity analyses of Mixed Model results to various departures from the Missing at Random (MAR) assumption, in the presence of drop-out.\n\n\n2. A Python package for automatic differentiation\nHave you ever wanted to take a derivative, but with a computer? This Python package performs automatic differentiation of scalar or vector functions with scalar or vector inputs. The package can perform “forward” or “reverse” mode automatic differentiation.\n\n\n3. A Python data analysis on food access programs\nSome people do not have access to food they need to live healthy lives. The purpose of this analysis was to use publically available data sources to identify US counties which would be good targets for a government program to address poor food accesss. I sought to identify communities that would be well served by such a program, and also estimate the health impact of these programs.\n\n\n4. Understanding regularization in the presence of sparsity.\nRegularization is used within the context of linear regression to balance bias and variance and avoid overfitting. This paper details the results of a simulation study to investigate the performance of LASSO, Ridge, and Elastic Net approaches on model performance under a variety of conditions (e.g., high sparsity).",
-    "crumbs": [
-      "Projects"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Dan Nolte",
-    "section": "",
-    "text": "Welcome! Here’s a bit about me, professionally and otherwise:\n\nI have training math and economics (University of Rochester, BA) and biostatistics (Harvard, MS).\nI have 6+ years of work experience in economic consulting, data science, and medical research.\nI love solving problems with data, and communicating results through writing.\nWork is important to me! I hope to have a positive impact through the work that I do.\nI love running, reading, writing, and listening to podcasts.\nThese are a few of my favorite things."
-  },
-  {
-    "objectID": "musings.html",
-    "href": "musings.html",
-    "title": "Musings",
-    "section": "",
-    "text": "Principles."
-  },
-  {
     "objectID": "blog/stats.html",
     "href": "blog/stats.html",
     "title": "Stats Tutorial",
@@ -77,6 +32,23 @@
     ]
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This is a selection of analytical projects I have completed either individually or as part of a small team.\n\n1. An R package for multiple imputation on longitudinal data\nIt turns out people don’t like completing surveys, especially longitudinal ones. What are you supposed to do with the half-data you are left with at the end? This R package implements a statistical method proposed by Moreno-Betancur and Chavance in their 2013 paper, which facilitates sensitivity analyses of Mixed Model results to various departures from the Missing at Random (MAR) assumption, in the presence of drop-out.\n\n\n2. A Python package for automatic differentiation\nHave you ever wanted to take a derivative, but with a computer? This Python package performs automatic differentiation of scalar or vector functions with scalar or vector inputs. The package can perform “forward” or “reverse” mode automatic differentiation.\n\n\n3. A Python data analysis on food access programs\nSome people do not have access to food they need to live healthy lives. The purpose of this analysis was to use publically available data sources to identify US counties which would be good targets for a government program to address poor food accesss. I sought to identify communities that would be well served by such a program, and also estimate the health impact of these programs.\n\n\n4. Understanding regularization in the presence of sparsity.\nRegularization is used within the context of linear regression to balance bias and variance and avoid overfitting. This paper details the results of a simulation study to investigate the performance of LASSO, Ridge, and Elastic Net approaches on model performance under a variety of conditions (e.g., high sparsity).",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dan Nolte",
+    "section": "",
+    "text": "Welcome! Here’s a bit about me, professionally and otherwise:\n\nI have training math and economics (University of Rochester, BA) and biostatistics (Harvard, MS).\nI have 6+ years of work experience in economic consulting, data science, and medical research.\nI love solving problems with data, and communicating results through writing.\nWork is important to me! I hope to have a positive impact through the work that I do.\nI love running, reading, writing, and listening to podcasts.\nThese are a few of my favorite things."
+  },
+  {
     "objectID": "blog/sql.html",
     "href": "blog/sql.html",
     "title": "SQL Tutorial",
@@ -85,27 +57,6 @@
     "crumbs": [
       "Blog",
       "SQL Tutorial"
-    ]
-  },
-  {
-    "objectID": "blog/python.html",
-    "href": "blog/python.html",
-    "title": "Python Tutorial",
-    "section": "",
-    "text": "SELECT * FROM",
-    "crumbs": [
-      "Blog",
-      "Python Tutorial"
-    ]
-  },
-  {
-    "objectID": "blog/overview.html#background",
-    "href": "blog/overview.html#background",
-    "title": "Blog",
-    "section": "",
-    "text": "SQL is a language that is used to query and manipulate data stored in relational databases. A relational database is just a set of tables that are related and share key information between them, allowing us to link them together to answer the questions we want to answer about the underlying data. It’s useful to think of these tables as excel spreadsheets, except they can be very large, they can be continuously updated, and you can extract highly specific information from them using code instead of filtering and formulas.\nBefore databases, we used to store information in physical media like file folders; this works until it doesn’t…if you have a lot of data it becomes a nightmare to modify it, update it, keep backups, and access it. Hence, SQL.\nSQL is important because data is important. If you are starting a company, for example, you need to keep track of your customers and their information, as well as other data pertaining to, say, your operations and employees. Once we store data in databases, we need to manage and access it efficiently, and so we developed the relational model and SQL.\nStoring data in tables is easy for us to understand, but it is not clearly the best or only way to do so. You can also store data in tree structures or network structures, and some data is still stored this way because its underlying nature is better captured in this way, or it is much more efficient to store it this way.",
-    "crumbs": [
-      "Blog"
     ]
   },
   {
@@ -139,6 +90,17 @@
     "crumbs": [
       "Blog",
       "SQL Tutorial"
+    ]
+  },
+  {
+    "objectID": "blog/python.html",
+    "href": "blog/python.html",
+    "title": "Python Tutorial",
+    "section": "",
+    "text": "SELECT * FROM",
+    "crumbs": [
+      "Blog",
+      "Python Tutorial"
     ]
   }
 ]
